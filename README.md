@@ -1,2 +1,3 @@
 # Cancer-Data-Analysis-and-Modeling
-Analysis and modeling of different types of Cancer datasets
+Analysis of different types of Cancer datasets
+This is my sample project
