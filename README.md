@@ -1,6 +1,6 @@
 # Cancer-Data-Analysis-and-Modeling
 <br>
-## PROJECTS
+PROJECTS
 <br>
 - [Breast Cancer Wisconsin Analysis]
 <br>
