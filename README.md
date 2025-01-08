@@ -1,7 +1,5 @@
 # Cancer-Data-Analysis-and-Modeling
-Analysis of different types of Cancer datasets
 <br>
-
 ## Projects
 - [Breast Cancer Wisconsin Analysis]
 - [Cervical Cancer Analysis]
